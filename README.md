@@ -87,8 +87,13 @@ All files which appear in the repo should be able to run, and not contain error 
 # Contact Info
 
 Liam Betts, liam.betts@vanderbilt.edu, Product Manager
+
 Emily Qian, emily.y.qian@vanderbilt.edu, Developer
+
 Justin Kim, namju.kim@vanderbilt.edu, Developer
+
 Kai Dubauskas, kai.w.dubauskas@vanderbilt.edu, Developer
+
 Leon Xu, hanliang.xu@vanderbilt.edu, Developer
+
 Matthew Zhou, matthew.zhou@vanderbilt.edu, Developer
